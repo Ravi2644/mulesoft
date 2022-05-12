@@ -1,0 +1,8 @@
+{
+    "itemId": 123,
+    "itemName": "Name",
+    "itemPrice": 123456,
+    "itemCode": "Code",
+    "itemDesc": "Description",
+    "customerId": 123
+}

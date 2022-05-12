@@ -1,0 +1,25 @@
+#%RAML 1.0 DataType
+type: object
+properties:
+  customerId:
+    type: number
+    required: true
+    description: Unique ID of Customer
+  itemCode:
+    type : string 
+    required: false
+    description: Code assigned to Item
+  itemDesc:
+    type : string
+    required : false
+    description: Description of Item
+  itemName:
+    type: string
+    required: true
+    description: Name of the Item
+  itemPrice:
+    type: any
+    required: true
+    description: Price of item per unit
+
+

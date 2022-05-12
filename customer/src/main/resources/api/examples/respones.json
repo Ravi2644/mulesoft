@@ -1,0 +1,11 @@
+{
+  "itemId": 123,
+  "itemName": "Name",
+  "itemPrice": 123456,
+  "itemCode": "Code",
+  "itemDesc": "Description",
+  "customerId": 123,
+  "IsDeleted": false,
+  "CreatedBy": 1,
+  "CreatedDateTime": "2020-01-27T13:34:40.006Z"
+}
